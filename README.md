@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
-3D-Unity-Audio-Visualizers created for a Tuts+ Article [How to Use Sound to Make 3D Geometry in Unity] (https://gamedevelopment.tutsplus.com/tutorials/how-to-use-sound-to-make-3d-geometry-in-unity--cms-20456)
+3D-Unity-Audio-Visualizers created for a Tuts+ Article [How to Use Sound to Make 3D Geometry in Unity](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-sound-to-make-3d-geometry-in-unity--cms-20456)
 
 
 ![Screenshot](visualizer01.png)
